@@ -27,4 +27,4 @@ A laboratory implementation and automation toolkit for Okta Workforce Identity C
 $env:OKTA_API_TOKEN = "your-okta-api-token"
 
 # Run automated discovery and entitlement verification
-.\Okta-LifecycleAutomation.ps1 -OktaDomain "[https://your-tenant.okta.com](https://your-tenant.okta.com)"
+.\Okta-LifecycleAutomation.ps1 -OktaDomain "https://your-tenant.okta.com"
