@@ -1,0 +1,9 @@
+﻿# Environment & Secret files
+*.env
+*.local
+credentials.json
+token.txt
+
+# PowerShell history & artifacts
+*.log
+*.tmp
